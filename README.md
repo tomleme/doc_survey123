@@ -38,7 +38,7 @@ end group|||		<code style="color:#0070C0"># VAR INTERNA </code>
 text|	testeAgroDois|	testeAgroDois|	<code style="color: #FF0000"># VAR BANCO</code>
 end group|	|	|	<code style="color: #0070C0"># VAR INTERNA</code>
 
-![Exemplo foto](https://github.com/tomleme/docs_survey123/blob/90c3a0c52232e807024e93af304570264721e7b9/type_vars.png)
+![Exemplo foto](https://github.com/tomleme/doc_survey123/blob/main/exemple1.png)
 
 ## Boas Práticas
 - Usar nomes descritivos e claros
