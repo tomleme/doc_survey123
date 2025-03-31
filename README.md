@@ -38,6 +38,7 @@ end group|||		<code style="color:#0070C0"># VAR INTERNA </code>
 text|	testeAgroDois|	testeAgroDois|	<code style="color: #FF0000"># VAR BANCO</code>
 end group|	|	|	<code style="color: #0070C0"># VAR INTERNA</code>
 
+#### outra opção de escrita valida
 ![Exemplo foto](https://github.com/tomleme/doc_survey123/blob/main/exemple1.png)
 
 ## Boas Práticas
